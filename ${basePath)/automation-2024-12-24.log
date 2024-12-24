@@ -1,0 +1,344 @@
+2024-12-20 17:20:49,732HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-20 17:20:55,437HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-20 17:20:55,449HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-20 17:20:56,853HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-20 17:20:56,857HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-20 17:20:59,987HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-20 17:21:02,163HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-20 17:21:04,876HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-20 17:22:33,370HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-20 17:22:35,507HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-20 17:22:35,511HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-20 17:22:38,018HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-20 17:22:40,478HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-20 17:22:42,919HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-20 17:24:27,084HH:mm:ss.SSS) [main] DEBUG api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-20 17:24:31,378HH:mm:ss.SSS) [main] DEBUG api.test.userTests(36) - ***********************User Created ****************************
+2024-12-20 17:24:31,401HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-20 17:24:33,846HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-20 17:24:33,850HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-20 17:24:35,837HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-20 17:24:38,263HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-20 17:24:40,931HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-20 21:23:50,163HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-20 21:24:00,741HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-20 21:24:00,749HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-20 21:24:04,172HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-20 21:24:04,178HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-20 21:24:07,156HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-20 21:24:10,714HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-20 21:24:17,093HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-20 21:25:10,137HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-20 21:25:16,186HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-20 21:25:16,200HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-20 21:25:19,147HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-20 21:25:19,153HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-20 21:25:23,764HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-20 21:25:26,425HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-20 21:25:34,674HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-20 21:28:58,073HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-20 21:29:07,543HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-20 21:29:07,571HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-20 21:29:10,341HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-20 21:29:10,347HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-20 21:29:17,471HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-20 21:29:20,787HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-20 21:29:23,988HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-20 22:56:35,939HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/drawings/_rels/vmlDrawing1.vml.rels
+2024-12-20 22:56:35,948HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 22:56:35,950HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-20 22:56:35,952HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 22:56:36,607HH:mm:ss.SSS) [main] DEBUG org.apache.poi.ooxml.POIXMLFactory(36) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/package
+2024-12-20 22:56:36,688HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/drawings/_rels/vmlDrawing1.vml.rels
+2024-12-20 22:56:36,689HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 22:56:36,691HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-20 22:56:36,692HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 22:56:36,721HH:mm:ss.SSS) [main] DEBUG org.apache.poi.ooxml.POIXMLFactory(36) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/package
+2024-12-20 22:56:36,775HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/drawings/_rels/vmlDrawing1.vml.rels
+2024-12-20 22:56:36,777HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 22:56:36,779HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-20 22:56:36,782HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 22:56:36,805HH:mm:ss.SSS) [main] DEBUG org.apache.poi.ooxml.POIXMLFactory(36) - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/package
+2024-12-20 23:25:13,198HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,205HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:13,745HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,748HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:13,786HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,788HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:13,845HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,846HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:13,875HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,878HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:13,906HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,907HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:13,929HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,930HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:13,956HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,958HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:13,979HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:13,980HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,001HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,003HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,021HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,023HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,044HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,045HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,064HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,064HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,083HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,084HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,098HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,099HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,118HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,119HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,142HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,144HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,163HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,164HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,183HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,183HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,198HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,199HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,217HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,217HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,231HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,231HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:14,247HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:14,248HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:22,651HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:22,651HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:22,663HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:22,664HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:22,676HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:22,677HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-20 23:25:22,689HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-20 23:25:22,690HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:08:45,989HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-21 15:08:50,490HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-21 15:08:53,195HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-21 15:08:55,459HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-21 15:08:58,055HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-21 15:13:06,179HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-21 15:13:10,157HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-21 15:13:10,163HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-21 15:13:12,753HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-21 15:13:12,756HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-21 15:13:14,832HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-21 15:13:17,376HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-21 15:13:19,552HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-21 15:16:11,252HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-21 15:16:14,051HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-21 15:16:14,064HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-21 15:16:17,722HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-21 15:16:17,724HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-21 15:16:20,424HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-21 15:16:23,687HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-21 15:16:26,707HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-21 15:20:52,139HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,145HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,613HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,615HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,644HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,645HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,688HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,689HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,715HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,716HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,738HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,739HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,761HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,762HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,785HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,786HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,805HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,806HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,826HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,827HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,847HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,848HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,870HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,871HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,892HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,894HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,918HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,920HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,939HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,940HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,957HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,958HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,978HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,978HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:52,997HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:52,998HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:53,013HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:53,014HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:53,028HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:53,029HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:53,044HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:53,044HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:53,059HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:53,060HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:20:53,074HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:20:53,075HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:21:01,622HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:21:01,623HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:21:01,638HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:21:01,639HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:21:01,652HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:21:01,653HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 15:21:01,666HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-21 15:21:01,667HH:mm:ss.SSS) [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection(36) - Parsing relationship: /_rels/.rels
+2024-12-21 16:02:43,848HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-21 16:02:51,756HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-21 16:02:51,772HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-21 16:02:54,356HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-21 16:02:54,361HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-21 16:02:57,310HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-21 16:02:58,662HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-21 16:03:01,449HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-21 17:07:21,658HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-21 17:07:29,428HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-21 17:07:29,446HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-21 17:07:38,473HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-21 17:07:38,477HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-21 17:07:45,841HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-21 17:07:52,971HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-21 17:07:57,956HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-21 17:13:22,695HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-21 17:13:30,171HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-21 17:13:30,196HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-21 17:13:36,978HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-21 17:13:36,983HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-21 17:13:40,801HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-21 17:13:53,262HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-21 17:13:58,021HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-21 17:14:52,602HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-21 17:14:59,631HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-21 17:14:59,657HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-21 17:15:08,462HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-21 17:15:08,465HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-21 17:15:13,341HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-21 17:15:21,845HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-21 17:15:28,161HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-23 16:45:07,717HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-23 16:45:11,614HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-23 16:45:11,625HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-23 16:45:13,966HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-23 16:45:13,970HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-23 16:45:16,361HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-23 16:45:18,815HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-23 16:45:21,981HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-23 16:46:11,866HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-23 16:46:14,219HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-23 16:46:14,223HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-23 16:46:16,475HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-23 16:46:16,480HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-23 16:46:19,027HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-23 16:46:21,957HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-23 16:46:24,502HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-23 16:49:04,322HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-23 16:49:06,671HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-23 16:49:06,675HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-23 16:49:09,191HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-23 16:49:09,197HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-23 16:49:12,542HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-23 16:49:15,362HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-23 16:49:18,017HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-23 16:52:47,570HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-23 16:52:49,854HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-23 16:52:49,859HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-23 16:52:53,082HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-23 16:52:53,087HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-23 16:52:55,907HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-23 16:52:58,054HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-23 16:53:00,301HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-23 16:56:24,688HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-23 16:56:27,066HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-23 16:56:27,068HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-23 16:56:28,961HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-23 16:56:28,964HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-23 16:56:31,275HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-23 16:56:33,749HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-23 16:56:36,013HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-23 16:57:47,275HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-23 16:57:49,627HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-23 16:57:49,630HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-23 16:57:51,940HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-23 16:57:51,944HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-23 16:57:54,543HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-23 16:57:56,789HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-23 16:57:58,921HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-24 15:56:36,716HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng.xml"
+2024-12-24 15:56:36,975HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Running:
+  C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng.xml
+
+2024-12-24 15:58:59,860HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng.xml"
+2024-12-24 15:59:00,125HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Running:
+  C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng.xml
+
+2024-12-24 15:59:29,580HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-24 15:59:32,188HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-24 15:59:32,192HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-24 15:59:34,968HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-24 15:59:34,970HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-24 15:59:37,473HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-24 15:59:39,732HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-24 15:59:42,341HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-24 16:21:08,795HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\AppData\Local\Temp\testng-eclipse-972666548\testng-customsuite.xml"
+2024-12-24 16:21:09,028HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,031HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-24 16:21:09,033HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,033HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,036HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-12-24 16:21:09,045HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2024-12-24 16:21:09,046HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,046HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,046HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,046HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,047HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,047HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,047HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,047HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,047HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,047HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,049HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,049HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,049HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,049HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,052HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,052HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,054HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-24 16:21:09,054HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,055HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,061HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-12-24 16:21:09,063HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,063HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,063HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-24 16:21:09,063HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-24 16:21:09,070HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Running:
+  C:\Users\damin\AppData\Local\Temp\testng-eclipse-972666548\testng-customsuite.xml
+
+2024-12-24 16:21:09,116HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2024-12-24 16:21:14,650HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.jq.Main@46c10083: 69 ms
+2024-12-24 16:21:14,667HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.FailedReporter@59636c47: 16 ms
+2024-12-24 16:21:14,685HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.XMLReporter@20d19f2c: 18 ms
+2024-12-24 16:21:14,693HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@382dc417: 8 ms
+2024-12-24 16:21:14,701HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@592ca48c: 7 ms
+2024-12-24 16:21:14,701HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5fed9976: 0 ms
+2024-12-24 16:21:57,494HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng.xml"
+2024-12-24 16:21:57,741HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Running:
+  C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng.xml
+
+2024-12-24 16:22:24,548HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-24 16:22:30,310HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-24 16:22:30,312HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-24 16:22:32,306HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************
+2024-12-24 16:22:32,309HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Updating User ****************************
+2024-12-24 16:22:34,244HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
+2024-12-24 16:22:35,542HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
+2024-12-24 16:22:38,764HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-24 16:23:29,844HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng.xml"
+2024-12-24 16:23:57,774HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Creating User ****************************
+2024-12-24 16:24:00,441HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Created ****************************
+2024-12-24 16:24:00,443HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Reading User ****************************
+2024-12-24 16:24:02,781HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Read ****************************

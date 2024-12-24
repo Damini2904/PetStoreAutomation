@@ -1,9 +1,11 @@
 package api.test;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
 import org.testng.Assert;
+import org.testng.ITestContext;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
@@ -56,21 +58,40 @@ public class petTests {
 		petPayload.setName(faker.dog().name());  // Random dog name
 		petPayload.setPhotoUrls(photoURLs); // Assign photo URLs
 		petPayload.setTags(tags); // Assign tags
-		petPayload.setStatus("available");
+		petPayload.setStatus(faker.options().option("available","unavailable"));
 	}
 	
 	//Add Pet
 	@Test(priority=1)
-	public void testpostPet() {
+	public void testpostPet(ITestContext context) {
 		
 		Response response = petEndpoints.addPet(petPayload);
 		response.then().log().all();
 		
 		Assert.assertEquals(response.statusCode(), 200);
 		
+		 // Store petId in the ITestContext
+		context.setAttribute("PetId", this.petPayload.getId());
+		
 	}
-	//Get Pet
+	
+	//Upload Image
 	@Test(priority=2)
+	void testuploadImage() {
+		
+		File MyFile = new  File("C:\\Users\\damin\\Downloads\\Dog.jpg");
+		String additionalMetadata= "jpg";
+		
+		Response response = petEndpoints.uploadPetImage(this.petPayload.getId(),additionalMetadata, MyFile);
+		response.then().log().all();
+		
+	Assert.assertEquals(response.statusCode(), 200);
+	
+	}
+	
+	
+	//Get Pet
+	@Test(priority=3)
 	public void testgetPet() {
 		
 		Response response = petEndpoints.readpet(this.petPayload.getId());
@@ -82,12 +103,11 @@ public class petTests {
 	}
 	
 	//Update Pet
-	@Test(priority=3)
+	@Test(priority=4)
 	public void testupdatePet() {
 		
-		String PetName=faker.dog().name();  // Random dog name
-		
-		String Status = "unavailable";
+		String PetName=faker.dog().name();  // Update dog name
+		String Status = "unavailable"; // Update status
 		
 		Response response = petEndpoints.updatePet(this.petPayload.getId(),PetName,Status);
 		response.then().log().all();
@@ -103,7 +123,7 @@ public class petTests {
 	}
 	
 	//Delete Pet
-	@Test(priority=4)
+	@Test(priority=5)
 	public void testdeletePet() {
 		
 		Response response = petEndpoints.deletePet(this.petPayload.getId());

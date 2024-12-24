@@ -82,6 +82,7 @@ public class userTests {
 		UserPayload.setPhone(faker.phoneNumber().cellPhone());
 		
 		Response response =userEndpoints.updateUser(UserPayload, this.UserPayload.getUsername());
+		response.then().log().all();
 		Assert.assertEquals(response.getStatusCode(),200);
 		
 		logger.info("***********************User Updated ****************************");
@@ -101,6 +102,7 @@ public class userTests {
 		logger.info("***********************Deleting User ****************************");
 
 		Response response =userEndpoints.deleteUser(this.UserPayload.getUsername());
+		response.then().log().all();
 		
 		Assert.assertEquals(response.getStatusCode(),200);
 		

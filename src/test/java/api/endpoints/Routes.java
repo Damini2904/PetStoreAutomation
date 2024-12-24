@@ -8,6 +8,7 @@ public class Routes {
 	
 	// Pet Module
 	static String pet_post_URL = base_URL + "/pet";
+	static String pet_uploadimg_post_URL = base_URL + "/pet/{PetId}/uploadImage";
 	static String pet_get_URL = base_URL + "/pet/{PetId}";
 	static String pet_update_post_URL = base_URL + "/pet/{PetId}";
 	static String pet_delete_URL = base_URL + "/pet/{PetId}";
