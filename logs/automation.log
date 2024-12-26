@@ -109,3 +109,77 @@
 2024-12-24 16:41:27,326HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Updated ****************************
 2024-12-24 16:41:29,898HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************Deleting User ****************************
 2024-12-24 16:41:32,403HH:mm:ss.SSS) [main] INFO  api.test.userTests(36) - ***********************User Deleted ****************************
+2024-12-26 12:40:19,570HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\AppData\Local\Temp\testng-eclipse--896142617\testng-customsuite.xml"
+2024-12-26 12:40:19,928HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,933HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-12-26 12:40:19,935HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,935HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,942HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2024-12-26 12:40:19,958HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2024-12-26 12:40:19,960HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,960HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,960HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,961HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,961HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,961HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,962HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,962HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,962HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,962HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,964HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,964HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,964HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,964HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,967HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,967HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,969HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-26 12:40:19,969HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,971HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,976HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+2024-12-26 12:40:19,978HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,978HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,978HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-26 12:40:19,978HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-26 12:40:19,987HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Running:
+  C:\Users\damin\AppData\Local\Temp\testng-eclipse--896142617\testng-customsuite.xml
+
+2024-12-26 12:40:20,057HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-12-26 12:40:38,022HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.jq.Main@5b8572df: 98 ms
+2024-12-26 12:40:38,047HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.FailedReporter@3b97907c: 25 ms
+2024-12-26 12:40:38,065HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.XMLReporter@49fdbe2b: 18 ms
+2024-12-26 12:40:38,077HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@521441d5: 11 ms
+2024-12-26 12:40:38,088HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1961d75a: 11 ms
+2024-12-26 12:40:38,088HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Time taken by org.testng.internal.ExitCodeListener@677ce519: 0 ms
+2024-12-26 12:42:27,559HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng2.xml"
+2024-12-26 12:42:28,069HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Running:
+  C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng2.xml
+
+2024-12-26 12:43:05,222HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-26 12:43:10,177HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-26 12:43:10,180HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-26 12:43:18,733HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-26 12:43:18,738HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-26 12:43:25,749HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-26 12:43:33,584HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-26 12:43:36,404HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-26 12:45:00,872HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng2.xml"
+2024-12-26 12:45:01,342HH:mm:ss.SSS) [main] INFO  org.testng.internal.Utils(36) - [TestNG] Running:
+  C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng2.xml
+
+2024-12-26 12:45:45,377HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-26 12:45:48,643HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-26 12:45:48,646HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-26 12:45:53,602HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-26 12:45:53,605HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-26 12:45:58,340HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-26 12:46:02,875HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-26 12:46:08,360HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************
+2024-12-26 12:47:22,127HH:mm:ss.SSS) [main] DEBUG org.testng.TestNG(36) - suiteXmlPath: "C:\Users\damin\eclipse-workspace\PetStoreAutomation\testng2.xml"
+2024-12-26 12:48:16,909HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Creating User ****************************
+2024-12-26 12:48:26,444HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Created ****************************
+2024-12-26 12:48:26,447HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Reading User ****************************
+2024-12-26 12:48:31,453HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Read ****************************
+2024-12-26 12:48:31,454HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Updating User ****************************
+2024-12-26 12:48:34,531HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Updated ****************************
+2024-12-26 12:48:38,837HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************Deleting User ****************************
+2024-12-26 12:48:40,659HH:mm:ss.SSS) [main] INFO  api.test.userTests2(36) - ***********************User Deleted ****************************

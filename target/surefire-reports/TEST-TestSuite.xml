@@ -1,64 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="40.567" tests="12" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="79.997" tests="12" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.specification.version" value="21"/>
+    <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.class.path" value="C:\Users\damin\eclipse-workspace\PetStoreAutomation\target\test-classes;C:\Users\damin\eclipse-workspace\PetStoreAutomation\target\classes;C:\Users\damin\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\damin\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\damin\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\damin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\damin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\damin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\damin\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\damin\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\damin\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\damin\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\damin\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\damin\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\damin\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\damin\.m2\repository\org\json\json\20240303\json-20240303.jar;C:\Users\damin\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\damin\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\damin\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\damin\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\damin\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\damin\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\damin\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\damin\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\damin\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\damin\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\damin\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\damin\.m2\repository\org\apache\poi\poi\5.3.0\poi-5.3.0.jar;C:\Users\damin\.m2\repository\commons-codec\commons-codec\1.17.0\commons-codec-1.17.0.jar;C:\Users\damin\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\damin\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\damin\.m2\repository\commons-io\commons-io\2.16.1\commons-io-2.16.1.jar;C:\Users\damin\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\damin\.m2\repository\org\apache\poi\poi-ooxml\5.3.0\poi-ooxml-5.3.0.jar;C:\Users\damin\.m2\repository\org\apache\poi\poi-ooxml-lite\5.3.0\poi-ooxml-lite-5.3.0.jar;C:\Users\damin\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.1\xmlbeans-5.2.1.jar;C:\Users\damin\.m2\repository\org\apache\commons\commons-compress\1.26.2\commons-compress-1.26.2.jar;C:\Users\damin\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\damin\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\damin\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\damin\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\damin\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\damin\.m2\repository\com\github\scribejava\scribejava-apis\8.3.3\scribejava-apis-8.3.3.jar;C:\Users\damin\.m2\repository\com\github\scribejava\scribejava-core\8.3.3\scribejava-core-8.3.3.jar;C:\Users\damin\.m2\repository\com\github\scribejava\scribejava-java8\8.3.3\scribejava-java8-8.3.3.jar;C:\Users\damin\.m2\repository\io\rest-assured\json-schema-validator\5.5.0\json-schema-validator-5.5.0.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar;C:\Users\damin\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar;C:\Users\damin\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar;C:\Users\damin\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\damin\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar;C:\Users\damin\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\damin\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\damin\.m2\repository\com\google\guava\guava\33.2.1-jre\guava-33.2.1-jre.jar;C:\Users\damin\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\damin\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\damin\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\damin\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\damin\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\damin\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.4\jackson-databind-2.13.4.jar;C:\Users\damin\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;C:\Users\damin\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;C:\Users\damin\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\damin\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\damin\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.20.0\log4j-slf4j-impl-2.20.0.jar;"/>
-    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
-    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="os.name" value="Windows 11"/>
-    <property name="java.vm.specification.version" value="21"/>
+    <property name="java.vm.specification.version" value="17"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\damin\AppData\Local\Temp\surefire4131467279089641379\surefirebooter-20241224164051883_3.jar C:\Users\damin\AppData\Local\Temp\surefire4131467279089641379 2024-12-24T16-40-51_764-jvmRun1 surefire-20241224164051883_1tmp surefire_0-20241224164051883_2tmp"/>
+    <property name="sun.boot.library.path" value="C:\Users\damin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\damin\AppData\Local\Temp\surefire10911875721828830124\surefirebooter-20241226124718920_3.jar C:\Users\damin\AppData\Local\Temp\surefire10911875721828830124 2024-12-26T12-47-18_508-jvmRun1 surefire-20241226124718920_1tmp surefire_0-20241226124718920_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\damin\eclipse-workspace\PetStoreAutomation\target\test-classes;C:\Users\damin\eclipse-workspace\PetStoreAutomation\target\classes;C:\Users\damin\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\damin\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\damin\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\damin\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\damin\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\damin\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\damin\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\damin\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\damin\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\damin\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\damin\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\damin\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\damin\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\damin\.m2\repository\org\json\json\20240303\json-20240303.jar;C:\Users\damin\.m2\repository\com\github\javafaker\javafaker\1.0.2\javafaker-1.0.2.jar;C:\Users\damin\.m2\repository\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\damin\.m2\repository\org\yaml\snakeyaml\1.23\snakeyaml-1.23-android.jar;C:\Users\damin\.m2\repository\com\github\mifmif\generex\1.0.2\generex-1.0.2.jar;C:\Users\damin\.m2\repository\dk\brics\automaton\automaton\1.11-8\automaton-1.11-8.jar;C:\Users\damin\.m2\repository\com\aventstack\extentreports\5.1.2\extentreports-5.1.2.jar;C:\Users\damin\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\damin\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\damin\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\damin\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\damin\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\damin\.m2\repository\org\apache\poi\poi\5.3.0\poi-5.3.0.jar;C:\Users\damin\.m2\repository\commons-codec\commons-codec\1.17.0\commons-codec-1.17.0.jar;C:\Users\damin\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\damin\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\damin\.m2\repository\commons-io\commons-io\2.16.1\commons-io-2.16.1.jar;C:\Users\damin\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\damin\.m2\repository\org\apache\poi\poi-ooxml\5.3.0\poi-ooxml-5.3.0.jar;C:\Users\damin\.m2\repository\org\apache\poi\poi-ooxml-lite\5.3.0\poi-ooxml-lite-5.3.0.jar;C:\Users\damin\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.1\xmlbeans-5.2.1.jar;C:\Users\damin\.m2\repository\org\apache\commons\commons-compress\1.26.2\commons-compress-1.26.2.jar;C:\Users\damin\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\damin\.m2\repository\org\testng\testng\7.10.2\testng-7.10.2.jar;C:\Users\damin\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\damin\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\damin\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\damin\.m2\repository\com\github\scribejava\scribejava-apis\8.3.3\scribejava-apis-8.3.3.jar;C:\Users\damin\.m2\repository\com\github\scribejava\scribejava-core\8.3.3\scribejava-core-8.3.3.jar;C:\Users\damin\.m2\repository\com\github\scribejava\scribejava-java8\8.3.3\scribejava-java8-8.3.3.jar;C:\Users\damin\.m2\repository\io\rest-assured\json-schema-validator\5.5.0\json-schema-validator-5.5.0.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\json-schema-validator\2.2.14\json-schema-validator-2.2.14.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\jackson-coreutils-equivalence\1.0\jackson-coreutils-equivalence-1.0.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\jackson-coreutils\2.0\jackson-coreutils-2.0.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\msg-simple\1.2\msg-simple-1.2.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\btf\1.3\btf-1.3.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\json-schema-core\1.2.14\json-schema-core-1.2.14.jar;C:\Users\damin\.m2\repository\com\github\java-json-tools\uri-template\0.10\uri-template-0.10.jar;C:\Users\damin\.m2\repository\org\mozilla\rhino\1.7.7.2\rhino-1.7.7.2.jar;C:\Users\damin\.m2\repository\com\sun\mail\mailapi\1.6.2\mailapi-1.6.2.jar;C:\Users\damin\.m2\repository\joda-time\joda-time\2.10.5\joda-time-2.10.5.jar;C:\Users\damin\.m2\repository\com\googlecode\libphonenumber\libphonenumber\8.11.1\libphonenumber-8.11.1.jar;C:\Users\damin\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\damin\.m2\repository\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;C:\Users\damin\.m2\repository\com\google\guava\guava\33.2.1-jre\guava-33.2.1-jre.jar;C:\Users\damin\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\damin\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\damin\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar;C:\Users\damin\.m2\repository\com\google\errorprone\error_prone_annotations\2.26.1\error_prone_annotations-2.26.1.jar;C:\Users\damin\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\damin\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.4\jackson-databind-2.13.4.jar;C:\Users\damin\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.4\jackson-annotations-2.13.4.jar;C:\Users\damin\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.4\jackson-core-2.13.4.jar;C:\Users\damin\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\damin\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\damin\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.20.0\log4j-slf4j-impl-2.20.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\damin"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.version.date" value="2024-10-15"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="java.version.date" value="2022-01-18"/>
+    <property name="java.home" value="C:\Users\damin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre"/>
     <property name="file.separator" value="\"/>
     <property name="basedir" value="C:\Users\damin\eclipse-workspace\PetStoreAutomation"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\damin\AppData\Local\Temp\surefire4131467279089641379\surefirebooter-20241224164051883_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\damin\AppData\Local\Temp\surefire10911875721828830124\surefirebooter-20241226124718920_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.runtime.version" value="21.0.5+9-LTS-239"/>
+    <property name="java.runtime.version" value="17.0.2+8"/>
     <property name="user.name" value="damin"/>
-    <property name="stdout.encoding" value="Cp1252"/>
     <property name="path.separator" value=";"/>
     <property name="os.version" value="10.0"/>
-    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="file.encoding" value="UTF-8"/>
-    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.2+8"/>
     <property name="localRepository" value="C:\Users\damin\.m2\repository"/>
-    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="C:\Users\damin\AppData\Local\Temp\"/>
-    <property name="java.version" value="21.0.5"/>
+    <property name="java.version" value="17.0.2"/>
     <property name="user.dir" value="C:\Users\damin\eclipse-workspace\PetStoreAutomation"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="native.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\apache-maven-3.9.9\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\damin\AppData\Local\Microsoft\WindowsApps;;C:\Users\damin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.2\bin;;C:\Users\damin\AppData\Roaming\npm;."/>
-    <property name="java.vm.info" value="mixed mode, sharing"/>
-    <property name="stderr.encoding" value="Cp1252"/>
-    <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.version" value="21.0.5+9-LTS-239"/>
+    <property name="java.library.path" value="C:\Users\damin\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/damin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Users/damin/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\apache-maven-3.9.9\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\damin\AppData\Local\Microsoft\WindowsApps;;C:\Users\damin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.1.2\bin;;C:\Users\damin\AppData\Roaming\npm;C:\Users\damin\OneDrive\Desktop;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.2+8"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="java.class.version" value="65.0"/>
+    <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testpostPet[org.testng.TestRunner@265c1a7c](1)" classname="api.test.petTests" time="4.798">
+  <testcase name="testpostPet[org.testng.TestRunner@33324c05](1)" classname="api.test.petTests2" time="10.658">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://petstore.swagger.io/v2/pet
 Proxy:			<none>
@@ -72,30 +71,30 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "id": 7,
+    "id": 2,
     "category": {
-        "id": 764358458,
-        "name": "Malinois"
+        "id": 244577237,
+        "name": "Norwich Terrier"
     },
-    "name": "Rocky",
+    "name": "Belle",
     "photoUrls": [
-        "www.claude-hermann.co",
-        "www.vernita-hintz.info"
+        "www.fredric-jast.name",
+        "www.ardith-walter.info"
     ],
     "tags": [
         {
             "id": 6,
-            "name": "Zeus"
+            "name": "Ruby"
         },
         {
-            "id": 4,
-            "name": "Sasha"
+            "id": 7,
+            "name": "Jack"
         }
     ],
-    "status": "available"
+    "status": "unavailable"
 }
 HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:10:56 GMT
+Date: Thu, 26 Dec 2024 07:17:32 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -105,33 +104,33 @@ Access-Control-Allow-Headers: Content-Type, api_key, Authorization
 Server: Jetty(9.2.9.v20150224)
 
 {
-    "id": 7,
+    "id": 2,
     "category": {
-        "id": 764358458,
-        "name": "Malinois"
+        "id": 244577237,
+        "name": "Norwich Terrier"
     },
-    "name": "Rocky",
+    "name": "Belle",
     "photoUrls": [
-        "www.claude-hermann.co",
-        "www.vernita-hintz.info"
+        "www.fredric-jast.name",
+        "www.ardith-walter.info"
     ],
     "tags": [
         {
             "id": 6,
-            "name": "Zeus"
+            "name": "Ruby"
         },
         {
-            "id": 4,
-            "name": "Sasha"
+            "id": 7,
+            "name": "Jack"
         }
     ],
-    "status": "available"
+    "status": "unavailable"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testuploadImage" classname="api.test.petTests" time="5.303">
+  <testcase name="testuploadImage" classname="api.test.petTests2" time="8.064">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:02 GMT
+Date: Thu, 26 Dec 2024 07:17:41 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -147,9 +146,9 @@ Server: Jetty(9.2.9.v20150224)
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testgetPet" classname="api.test.petTests" time="3.292">
+  <testcase name="testgetPet" classname="api.test.petTests2" time="4.004">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:05 GMT
+Date: Thu, 26 Dec 2024 07:17:44 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -159,84 +158,33 @@ Access-Control-Allow-Headers: Content-Type, api_key, Authorization
 Server: Jetty(9.2.9.v20150224)
 
 {
-    "id": 7,
+    "id": 2,
     "category": {
-        "id": 764358458,
-        "name": "Malinois"
+        "id": 244577237,
+        "name": "Norwich Terrier"
     },
-    "name": "Rocky",
+    "name": "Belle",
     "photoUrls": [
-        "www.claude-hermann.co",
-        "www.vernita-hintz.info"
+        "www.fredric-jast.name",
+        "www.ardith-walter.info"
     ],
     "tags": [
         {
             "id": 6,
-            "name": "Zeus"
+            "name": "Ruby"
         },
         {
-            "id": 4,
-            "name": "Sasha"
-        }
-    ],
-    "status": "available"
-}
-]]></system-out>
-  </testcase>
-  <testcase name="testupdatePet" classname="api.test.petTests" time="4.585">
-    <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:07 GMT
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: GET, POST, DELETE, PUT
-Access-Control-Allow-Headers: Content-Type, api_key, Authorization
-Server: Jetty(9.2.9.v20150224)
-
-{
-    "code": 200,
-    "type": "unknown",
-    "message": "7"
-}
-HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:10 GMT
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: GET, POST, DELETE, PUT
-Access-Control-Allow-Headers: Content-Type, api_key, Authorization
-Server: Jetty(9.2.9.v20150224)
-
-{
-    "id": 7,
-    "category": {
-        "id": 764358458,
-        "name": "Malinois"
-    },
-    "name": "Roxie",
-    "photoUrls": [
-        "www.claude-hermann.co",
-        "www.vernita-hintz.info"
-    ],
-    "tags": [
-        {
-            "id": 6,
-            "name": "Zeus"
-        },
-        {
-            "id": 4,
-            "name": "Sasha"
+            "id": 7,
+            "name": "Jack"
         }
     ],
     "status": "unavailable"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testdeletePet" classname="api.test.petTests" time="2.613">
+  <testcase name="testupdatePet" classname="api.test.petTests2" time="7.217">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:12 GMT
+Date: Thu, 26 Dec 2024 07:17:50 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -248,11 +196,62 @@ Server: Jetty(9.2.9.v20150224)
 {
     "code": 200,
     "type": "unknown",
-    "message": "7"
+    "message": "2"
+}
+HTTP/1.1 200 OK
+Date: Thu, 26 Dec 2024 07:17:52 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+Server: Jetty(9.2.9.v20150224)
+
+{
+    "id": 2,
+    "category": {
+        "id": 244577237,
+        "name": "Norwich Terrier"
+    },
+    "name": "Cody",
+    "photoUrls": [
+        "www.fredric-jast.name",
+        "www.ardith-walter.info"
+    ],
+    "tags": [
+        {
+            "id": 6,
+            "name": "Ruby"
+        },
+        {
+            "id": 7,
+            "name": "Jack"
+        }
+    ],
+    "status": "unavailable"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testpostOrder[org.testng.TestRunner@265c1a7c](1)" classname="api.test.storeTests" time="1.799">
+  <testcase name="testdeletePet" classname="api.test.petTests2" time="6.589">
+    <system-out><![CDATA[HTTP/1.1 200 OK
+Date: Thu, 26 Dec 2024 07:17:59 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, DELETE, PUT
+Access-Control-Allow-Headers: Content-Type, api_key, Authorization
+Server: Jetty(9.2.9.v20150224)
+
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "2"
+}
+]]></system-out>
+  </testcase>
+  <testcase name="testpostOrder[org.testng.TestRunner@33324c05](1)" classname="api.test.storeTests2" time="4.064">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://petstore.swagger.io/v2/store/order
 Proxy:			<none>
@@ -266,15 +265,15 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "id": 9,
-    "petId": 7,
-    "quantity": 8,
-    "shipDate": "2025-01-02T16:09:09.540Z",
-    "status": "placed",
+    "id": 3,
+    "petId": 2,
+    "quantity": 4,
+    "shipDate": "2024-12-30T22:10:12.704Z",
+    "status": "approved",
     "complete": false
 }
 HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:14 GMT
+Date: Thu, 26 Dec 2024 07:18:03 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -284,18 +283,18 @@ Access-Control-Allow-Headers: Content-Type, api_key, Authorization
 Server: Jetty(9.2.9.v20150224)
 
 {
-    "id": 9,
-    "petId": 7,
-    "quantity": 8,
-    "shipDate": "2025-01-02T16:09:09.540+0000",
-    "status": "placed",
+    "id": 3,
+    "petId": 2,
+    "quantity": 4,
+    "shipDate": "2024-12-30T22:10:12.704+0000",
+    "status": "approved",
     "complete": false
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testgetOrder" classname="api.test.storeTests" time="2.254">
+  <testcase name="testgetOrder" classname="api.test.storeTests2" time="8.502">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:16 GMT
+Date: Thu, 26 Dec 2024 07:18:11 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -305,18 +304,18 @@ Access-Control-Allow-Headers: Content-Type, api_key, Authorization
 Server: Jetty(9.2.9.v20150224)
 
 {
-    "id": 9,
-    "petId": 7,
-    "quantity": 8,
-    "shipDate": "2025-01-02T16:09:09.540+0000",
-    "status": "placed",
+    "id": 3,
+    "petId": 2,
+    "quantity": 4,
+    "shipDate": "2024-12-30T22:10:12.704+0000",
+    "status": "approved",
     "complete": false
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testdeletOrder" classname="api.test.storeTests" time="2.089">
+  <testcase name="testdeletOrder" classname="api.test.storeTests2" time="4.391">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:18 GMT
+Date: Thu, 26 Dec 2024 07:18:16 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -328,11 +327,11 @@ Server: Jetty(9.2.9.v20150224)
 {
     "code": 200,
     "type": "unknown",
-    "message": "9"
+    "message": "3"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testPostUser" classname="api.test.userTests" time="1.828">
+  <testcase name="testPostUser" classname="api.test.userTests2" time="9.537">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://petstore.swagger.io/v2/user
 Proxy:			<none>
@@ -346,17 +345,17 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "id": 571349883,
-    "username": "maryland.hartmann",
-    "firstName": "Justin",
-    "lastName": "Wiegand",
-    "email": "christian.langworth@gmail.com",
-    "password": "nhe14jkj",
-    "phone": "533-434-4314",
+    "id": 383823787,
+    "username": "cesar.heidenreich",
+    "firstName": "Frederick",
+    "lastName": "Bogisich",
+    "email": "hanh.crona@hotmail.com",
+    "password": "vzily6tf",
+    "phone": "946.458.0232",
     "userStatus": 0
 }
 HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:20 GMT
+Date: Thu, 26 Dec 2024 07:18:25 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -368,13 +367,13 @@ Server: Jetty(9.2.9.v20150224)
 {
     "code": 200,
     "type": "unknown",
-    "message": "571349883"
+    "message": "383823787"
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testgetUser" classname="api.test.userTests" time="2.875">
+  <testcase name="testgetUser" classname="api.test.userTests2" time="5.009">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:23 GMT
+Date: Thu, 26 Dec 2024 07:18:30 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -384,20 +383,20 @@ Access-Control-Allow-Headers: Content-Type, api_key, Authorization
 Server: Jetty(9.2.9.v20150224)
 
 {
-    "id": 571349883,
-    "username": "maryland.hartmann",
-    "firstName": "Justin",
-    "lastName": "Wiegand",
-    "email": "christian.langworth@gmail.com",
-    "password": "nhe14jkj",
-    "phone": "533-434-4314",
+    "id": 383823787,
+    "username": "cesar.heidenreich",
+    "firstName": "Frederick",
+    "lastName": "Bogisich",
+    "email": "hanh.crona@hotmail.com",
+    "password": "vzily6tf",
+    "phone": "946.458.0232",
     "userStatus": 0
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testPutUser" classname="api.test.userTests" time="5.105">
+  <testcase name="testPutUser" classname="api.test.userTests2" time="7.382">
     <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:26 GMT
+Date: Thu, 26 Dec 2024 07:18:38 GMT
 Content-Type: application/json
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -407,53 +406,16 @@ Access-Control-Allow-Headers: Content-Type, api_key, Authorization
 Server: Jetty(9.2.9.v20150224)
 
 {
-    "code": 200,
-    "type": "unknown",
-    "message": "571349883"
-}
-HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:28 GMT
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: GET, POST, DELETE, PUT
-Access-Control-Allow-Headers: Content-Type, api_key, Authorization
-Server: Jetty(9.2.9.v20150224)
-
-{
-    "id": 571349883,
-    "username": "maryland.hartmann",
-    "firstName": "Sebastian",
-    "lastName": "Sipes",
-    "email": "sari.armstrong@gmail.com",
-    "password": "8iw5ux4u",
-    "phone": "890.618.1438",
+    "id": 383823787,
+    "username": "cesar.heidenreich",
+    "firstName": "Ciera",
+    "lastName": "Hagenes",
+    "email": "kurtis.daniel@gmail.com",
+    "password": "a66or",
+    "phone": "(558) 298-1054",
     "userStatus": 0
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testdeleteUser" classname="api.test.userTests" time="2.51">
-    <system-out><![CDATA[HTTP/1.1 200 OK
-Date: Tue, 24 Dec 2024 11:11:31 GMT
-Content-Type: application/json
-Transfer-Encoding: chunked
-Connection: keep-alive
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: GET, POST, DELETE, PUT
-Access-Control-Allow-Headers: Content-Type, api_key, Authorization
-Server: Jetty(9.2.9.v20150224)
-
-{
-    "id": 571349883,
-    "username": "maryland.hartmann",
-    "firstName": "Sebastian",
-    "lastName": "Sipes",
-    "email": "sari.armstrong@gmail.com",
-    "password": "8iw5ux4u",
-    "phone": "890.618.1438",
-    "userStatus": 0
-}
-]]></system-out>
-  </testcase>
+  <testcase name="testdeleteUser" classname="api.test.userTests2" time="1.821"/>
 </testsuite>

@@ -2,6 +2,7 @@ package api.test;
 
 import java.io.File;
 
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -12,13 +13,13 @@ import org.testng.annotations.Test;
 
 import com.github.javafaker.Faker;
 
-import api.endpoints.petEndpoints;
+import api.endpoints.petEndpoints2;
 import api.payload.Category;
 import api.payload.Pet;
 import api.payload.Tags;
 import io.restassured.response.Response;
 
-public class petTests {
+public class petTests2 {
 	
 	Faker faker;
 	Pet petPayload;
@@ -66,7 +67,7 @@ public class petTests {
 	@Test(priority=1)
 	public void testpostPet(ITestContext context) {
 		
-		Response response = petEndpoints.addPet(petPayload);
+		Response response = petEndpoints2.addPet(petPayload);
 		response.then().log().all();
 		
 		Assert.assertEquals(response.statusCode(), 200);
@@ -83,7 +84,7 @@ public class petTests {
 		File MyFile = new  File("C:\\Users\\damin\\Downloads\\Dog.jpg");
 		String additionalMetadata= "jpg";
 		
-		Response response = petEndpoints.uploadPetImage(this.petPayload.getId(),additionalMetadata, MyFile);
+		Response response = petEndpoints2.uploadPetImage(this.petPayload.getId(),additionalMetadata, MyFile);
 		response.then().log().all();
 		
 	Assert.assertEquals(response.statusCode(), 200);
@@ -95,7 +96,7 @@ public class petTests {
 	@Test(priority=3)
 	public void testgetPet() {
 		
-		Response response = petEndpoints.readpet(this.petPayload.getId());
+		Response response = petEndpoints2.readpet(this.petPayload.getId());
 		response.then().log().all();
 		
 		Assert.assertEquals(response.statusCode(), 200);
@@ -110,13 +111,13 @@ public class petTests {
 		String PetName=faker.dog().name();  // Update dog name
 		String Status = "unavailable"; // Update status
 		
-		Response response = petEndpoints.updatePet(this.petPayload.getId(),PetName,Status);
+		Response response = petEndpoints2.updatePet(this.petPayload.getId(),PetName,Status);
 		response.then().log().all();
 		
 		Assert.assertEquals(response.statusCode(), 200);
 		
 		//Get details after updating pet details
-		Response responseAterUpdate = petEndpoints.readpet(this.petPayload.getId());
+		Response responseAterUpdate = petEndpoints2.readpet(this.petPayload.getId());
 		responseAterUpdate.then().log().all();
 		
 		Assert.assertEquals(responseAterUpdate.statusCode(), 200);
@@ -127,7 +128,7 @@ public class petTests {
 	@Test(priority=5)
 	public void testdeletePet() {
 		
-		Response response = petEndpoints.deletePet(this.petPayload.getId());
+		Response response = petEndpoints2.deletePet(this.petPayload.getId());
 		response.then().log().all();
 		
 		Assert.assertEquals(response.statusCode(), 200);

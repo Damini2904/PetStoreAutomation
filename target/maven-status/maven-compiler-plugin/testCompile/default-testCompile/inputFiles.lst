@@ -1,6 +1,8 @@
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\endpoints\petEndpoints.java
+C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\endpoints\petEndpoints2.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\endpoints\Routes.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\endpoints\storeEndpoints.java
+C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\endpoints\storeEndpoints2.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\endpoints\userEndpoints.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\endpoints\userEndpoints2.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\payload\Category.java
@@ -10,7 +12,9 @@ C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\payload\Ta
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\payload\User.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\test\DDuserTests.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\test\petTests.java
+C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\test\petTests2.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\test\storeTests.java
+C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\test\storeTests2.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\test\userTests.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\test\userTests2.java
 C:\Users\damin\eclipse-workspace\PetStoreAutomation\src\test\java\api\utilities\DataProviders.java
